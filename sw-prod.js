@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/offlineWebApp/index.html","f1f535971a68afb4dac83d7447f57cc9"],["/offlineWebApp/static/lib/materialize.min.css","92b1c999ee8f5d5f74a8827bcf8e0d6e"]];
+var precacheConfig = [["/offlineWebApp/static/lib/materialize.min.css","92b1c999ee8f5d5f74a8827bcf8e0d6e"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
