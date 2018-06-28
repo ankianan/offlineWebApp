@@ -229,11 +229,11 @@ self.addEventListener('fetch', function(event) {
 
     // If shouldRespond is still false, check to see if this is a navigation
     // request, and if so, whether the URL matches navigateFallbackWhitelist.
-    var navigateFallback = '/scratch/ankit/repositories/offlineWebApp/index.html';
+    var navigateFallback = '';
     if (!shouldRespond &&
         navigateFallback &&
         (event.request.mode === 'navigate') &&
-        isPathWhitelisted(["^\\/"], event.request.url)) {
+        isPathWhitelisted([], event.request.url)) {
       url = new URL(navigateFallback, self.location).toString();
       shouldRespond = urlsToCacheKeys.has(url);
     }
