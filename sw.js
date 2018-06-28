@@ -1,6 +1,6 @@
 var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
-  '/offlineWebApp/index.html',
+  '/offlineWebApp/',
   '/offlineWebApp/static/lib/materialize.min.css'
 ];
 
