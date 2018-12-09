@@ -3,13 +3,13 @@
   "name": "Progressive Web Application",
   "icons": [
     {
-      "src": "/images/nirvana-192.jpg",
-      "type": "image/png",
+      "src": "/static/images/nirvana-192.jpeg",
+      "type": "image/jpef",
       "sizes": "192x192"
     },
     {
-      "src": "/images/nirvana-512.png",
-      "type": "image/jpeg",
+      "src": "/static/images/nirvana-512.png",
+      "type": "image/png",
       "sizes": "512x512"
     }
   ],
