@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/offlineWebApp/index.html","fd6b35bcd547c304eeddd4c40b470965"],["/offlineWebApp/static/lib/materialize.min.css","92b1c999ee8f5d5f74a8827bcf8e0d6e"]];
+var precacheConfig = [["/offlineWebApp/index.html","7b7616270ac2687bd2862a006c90e7f4"],["/offlineWebApp/static/images/nirvana-192.jpeg","e5363d0567fcd184b827cf0f45e05fd6"],["/offlineWebApp/static/images/nirvana-512.png","21fcfc2250c5a62ca99a93ca1c4b933a"],["/offlineWebApp/static/installPrompt.js","952ba122a1d6aed2568e1e2040c39521"],["/offlineWebApp/static/lib/materialize.min.css","92b1c999ee8f5d5f74a8827bcf8e0d6e"],["/offlineWebApp/static/lib/materialize.min.js","b4369697a720fed3c89eceee6b3b286b"],["/offlineWebApp/static/sw_register.js","64cb4e0de93ac15bb5bfc5a910d3f550"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
