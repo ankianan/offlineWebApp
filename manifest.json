@@ -15,7 +15,7 @@
   ],
   "start_url": "/offlineWebApp/index.html",
   "background_color": "#000000",
-  "display": "fullscreen",
+  "display": "standalone",
   "scope": "/offlineWebApp",
   "theme_color": "#000000"
 }
