@@ -13,9 +13,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/offlineWebApp",
+  "start_url": "/offlineWebApp/index.html",
   "background_color": "#000000",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/offlineWebApp",
   "theme_color": "#000000"
 }
